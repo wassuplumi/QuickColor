@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+release/
+work/
+*.spec
+*.log
+*.exe
+*.zip
+.env
+.env.*
+启动截图调色.vbs
